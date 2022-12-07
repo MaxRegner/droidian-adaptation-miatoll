@@ -1,0 +1,2 @@
+/usr/lib/adaptation-kenzo/sources.list.d/kenzo.list /etc/apt/sources.list.d/kenzo.list
+/usr/lib/adaptation-kenzo/package-sideload-create.d/miatoll-kernel /etc/package-sideload-create.d/kenzo-kernel
